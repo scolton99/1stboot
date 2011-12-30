@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_Current_User\Software\Microsoft\Internet Explorer\Main]
+"Start Page"="http://www.yahoo.com/"
+
